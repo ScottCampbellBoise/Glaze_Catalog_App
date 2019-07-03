@@ -1,0 +1,14 @@
+Baldwin Blue@
+Custer Feldspar ; 47.0 ~ Dolomite ; 10.0 ~ Silica ; 28.0 ~ Calcium Carbonate ; 8.0 ~ Kaolin ; 7.0@
+Copper Carbonate ; 1.0 ~ Rutile ; 3.0@
+Other@
+Ox. ~ Red.@
+6@
+10@
+Glossy@
+0@
+General@
+0@
+Other@
+Baldwin Blue is stable, reliable and durable, making it very suitable for functional ware@
+Glaze Recipes/Baldwin Blue/glaze 1.png ; Cone 6 Ox. ~ Glaze Recipes/Baldwin Blue/glaze 2.png ; Cone 6-7 Ox. ~ Glaze Recipes/Baldwin Blue/glaze 3.png ; Cone 8 Ox. ~ Glaze Recipes/Baldwin Blue/glaze 4.png ; Cone 6 Red.@
